@@ -1,0 +1,15 @@
+/media/Github/compiler/sharpiler/obj/Debug/net7.0/sharpiler.csproj.AssemblyReference.cache
+/media/Github/compiler/sharpiler/obj/Debug/net7.0/sharpiler.GeneratedMSBuildEditorConfig.editorconfig
+/media/Github/compiler/sharpiler/obj/Debug/net7.0/sharpiler.AssemblyInfoInputs.cache
+/media/Github/compiler/sharpiler/obj/Debug/net7.0/sharpiler.AssemblyInfo.cs
+/media/Github/compiler/sharpiler/obj/Debug/net7.0/sharpiler.csproj.CoreCompileInputs.cache
+/media/Github/compiler/sharpiler/bin/Debug/net7.0/sharpiler
+/media/Github/compiler/sharpiler/bin/Debug/net7.0/sharpiler.deps.json
+/media/Github/compiler/sharpiler/bin/Debug/net7.0/sharpiler.runtimeconfig.json
+/media/Github/compiler/sharpiler/bin/Debug/net7.0/sharpiler.dll
+/media/Github/compiler/sharpiler/bin/Debug/net7.0/sharpiler.pdb
+/media/Github/compiler/sharpiler/obj/Debug/net7.0/sharpiler.dll
+/media/Github/compiler/sharpiler/obj/Debug/net7.0/refint/sharpiler.dll
+/media/Github/compiler/sharpiler/obj/Debug/net7.0/sharpiler.pdb
+/media/Github/compiler/sharpiler/obj/Debug/net7.0/sharpiler.genruntimeconfig.cache
+/media/Github/compiler/sharpiler/obj/Debug/net7.0/ref/sharpiler.dll
